@@ -1,0 +1,5 @@
+/blazingdrive-v05a/
+/blazingdrive-v05a-coreml/
+/output/
+*.safetensors
+*.ckpt
