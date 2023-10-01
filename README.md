@@ -14,6 +14,8 @@ pip install -e .
 
 ## Conversion
 
+Download the model from HuggingFace or Civit.ai and set the paths in `convert-coreml.sh` and `convert-safetensors.py`.
+
 ```
 python convert-safetensors.py
 ./convert-coreml.sh
